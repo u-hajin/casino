@@ -1,6 +1,7 @@
 비빔밥 공모전 문서/
 Debug/
 x64/
+.vs/
 
 # Prerequisites
 *.d
