@@ -25,10 +25,97 @@ You can play Casino game with this program. There are 6 games.
 </details>
 
 <details>
-<summary>User</summary>
+<summary>Select or Register User</summary>
+  
+## Select
+![select_user](https://user-images.githubusercontent.com/68963707/134572799-058f5fde-ac89-4276-8bd3-7f13264baf4b.gif)
+  
+## Register 1
+![register_user1](https://user-images.githubusercontent.com/68963707/134573707-445f104e-56e2-4b95-8ec0-73b4143fbf9d.gif)
 
+## Register 2
+![register_user2](https://user-images.githubusercontent.com/68963707/134573741-91e83189-844d-4a19-a928-442cdbbb65dc.gif)
+
+</details>
+
+<details>
+<summary>Check Ranking</summary>
 <br>
   
 
 
 </details>
+
+<details>
+<summary>Blackjack</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Horse racing</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Roulette</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Russian roulette</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Slot machine</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Tai Sai</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Ending</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Hidden Game</summary>
+<br>
+  
+
+
+</details>
+
+<details>
+<summary>Credits</summary>
+<br>
+  
+
+
+</details>
+
+
