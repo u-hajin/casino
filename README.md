@@ -106,7 +106,7 @@ You can play Casino game with this program. There are 6 games.
 <summary>Hidden Game</summary>
 <br>
   
-
+![russian](https://user-images.githubusercontent.com/68963707/134696702-c2ff185c-9ae8-4b67-b9a6-aa0c9583e07e.gif)
 
 </details>
 
