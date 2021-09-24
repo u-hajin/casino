@@ -42,7 +42,7 @@ You can play Casino game with this program. There are 6 games.
 <summary>Check Ranking</summary>
 <br>
   
-
+![ranking](https://user-images.githubusercontent.com/68963707/134695927-da508a1e-dafb-4a61-97e5-7ef35516fd42.gif)
 
 </details>
 
@@ -114,7 +114,7 @@ You can play Casino game with this program. There are 6 games.
 <summary>Credits</summary>
 <br>
   
-
+![credits](https://user-images.githubusercontent.com/68963707/134696214-470def08-540d-40cf-aeb0-fd5ce905d9f4.gif)
 
 </details>
 
