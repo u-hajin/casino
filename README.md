@@ -56,6 +56,7 @@ You can play Casino game with this program. There are 6 games.
 ![horse_racing](https://user-images.githubusercontent.com/68963707/134775629-143a0648-5ac8-4a48-9a20-a51c25743627.gif)
   
 ## Roulette
+![roulette](https://user-images.githubusercontent.com/68963707/134775760-c4570fe8-d10f-4aea-934d-43d1ae915eae.gif)
   
 ## Russian roulette
   
