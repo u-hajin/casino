@@ -50,7 +50,7 @@ You can play Casino game with this program. There are 6 games.
 <summary>Blackjack</summary>
 <br>
   
-
+![blackjack](https://user-images.githubusercontent.com/68963707/134775265-e161d7c3-3f7e-4d22-b93b-d311ad6a1803.gif)
 
 </details>
 
@@ -117,5 +117,3 @@ You can play Casino game with this program. There are 6 games.
 ![credits](https://user-images.githubusercontent.com/68963707/134696214-470def08-540d-40cf-aeb0-fd5ce905d9f4.gif)
 
 </details>
-
-
