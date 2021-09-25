@@ -4,7 +4,6 @@ You can play Casino game with this program. There are 6 games.
 - Blackjack
 - Horse racing
 - Roulette
-- Russian roulette
 - Slot machine
 - Tai Sai
 
@@ -58,9 +57,8 @@ You can play Casino game with this program. There are 6 games.
 ## Roulette
 ![roulette](https://user-images.githubusercontent.com/68963707/134775760-c4570fe8-d10f-4aea-934d-43d1ae915eae.gif)
   
-## Russian roulette
-  
 ## Slot machine
+![slotmachine](https://user-images.githubusercontent.com/68963707/134775852-6e621a40-5015-4e55-a574-d6dd43e92bba.gif)
   
 ## Tai Sai
 
