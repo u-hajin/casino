@@ -68,7 +68,9 @@ You can play Casino game with this program. There are 6 games.
 <summary>Ending</summary>
 <br>
   
-
+![ending1](https://user-images.githubusercontent.com/68963707/134811066-835e088b-b85e-4075-8d78-a89c05e4ee4b.gif)
+  
+![ending2](https://user-images.githubusercontent.com/68963707/134811108-d09ef821-1a38-4584-bd10-1dba545e797a.gif)
 
 </details>
 
