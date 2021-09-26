@@ -1,4 +1,4 @@
-# Casino game with C programming
+# Casino game with C programming (2019.07.11 - 2019.09.17)
 
 You can play Casino game with this program. There are 6 games.
 - Blackjack
