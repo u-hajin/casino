@@ -49,16 +49,16 @@ You can play Casino game with this program. There are 6 games.
 <summary>Game Play</summary>
   
 ## Blackjack
-![blackjack](https://user-images.githubusercontent.com/68963707/134775265-e161d7c3-3f7e-4d22-b93b-d311ad6a1803.gif)
+![blackjack](https://user-images.githubusercontent.com/68963707/135104515-be20900c-5071-4761-b80b-f7719372fb93.gif)
   
 ## Horse racing
-![horse_racing](https://user-images.githubusercontent.com/68963707/134775629-143a0648-5ac8-4a48-9a20-a51c25743627.gif)
+![horse_racing](https://user-images.githubusercontent.com/68963707/135103013-68eb7d34-5ae6-4451-a875-68e273ab3754.gif)
   
 ## Roulette
 ![roulette](https://user-images.githubusercontent.com/68963707/134775760-c4570fe8-d10f-4aea-934d-43d1ae915eae.gif)
   
 ## Slot machine
-![slotmachine](https://user-images.githubusercontent.com/68963707/134775852-6e621a40-5015-4e55-a574-d6dd43e92bba.gif)
+![slotmachine](https://user-images.githubusercontent.com/68963707/135102624-b8ac0485-9a7f-49a1-b825-78d035f599f4.gif)
   
 ## Tai Sai
 ![taisai](https://user-images.githubusercontent.com/68963707/135102270-d6e2c26d-6e12-4ff2-b777-7ed8597172bc.gif)
