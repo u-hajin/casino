@@ -61,6 +61,7 @@ You can play Casino game with this program. There are 6 games.
 ![slotmachine](https://user-images.githubusercontent.com/68963707/134775852-6e621a40-5015-4e55-a574-d6dd43e92bba.gif)
   
 ## Tai Sai
+![taisai](https://user-images.githubusercontent.com/68963707/135102270-d6e2c26d-6e12-4ff2-b777-7ed8597172bc.gif)
 
 </details>
 
