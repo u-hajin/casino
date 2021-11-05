@@ -7,12 +7,6 @@ You can play Casino game with this program. There are 6 games.
 - Slot machine
 - Tai Sai
 
-## Contribution
-
-- Opening, Ending animation
-- Slot machine
-- Tai Sai
-
 ## Play
 
 <details>
